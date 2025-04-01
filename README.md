@@ -31,7 +31,3 @@ JavaScript for interactivity
 
 /page1.js     # JavaScript file
 
-
-🔗 Connect with Me
-
-LinkedIn: Abhishek Sarkar
